@@ -8,7 +8,7 @@ Before the start of the Academy please complete the activities outlined in the [
 
 ## Academy Outline
 
-* [pre-academy](https://github.com/hightechu/hightechu-spring2018/tree/pre-academy)
+* [pre-academy](https://github.com/hightechu/hightechu-spring2019/tree/pre-academy)
 * [week1]()
 * [week2]()
 * [week3]()
