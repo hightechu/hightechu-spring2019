@@ -1,6 +1,6 @@
-# HighTechU Spring 2018
+# HighTechU Spring 2019
 
-HighTechU Spring 2018 - Course Material
+HighTechU Spring 2019 - Course Material
 
 Before the start of the Academy please complete the list of tasks below. These task will help you be prepared for the rest of the Academy. If you need any help please refer to the appropriate slide deck.
 
