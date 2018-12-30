@@ -4,7 +4,7 @@ HighTechU Spring 2019 - Course Material
 
 Welcome to the HighTechU Academy! This [github repository](https://help.github.com/articles/about-repositories/) will be your main entry point for this course. You will find everything you need here. Each week the lesson plan will be available in a [branch](https://help.github.com/articles/about-branches/). 
 
-Before the start of the Academy please complete the activities outlined in the [pre-academy branch](https://github.com/hightechu/hightechu-spring2018/tree/pre-academy). 
+Before the start of the Academy please complete the activities outlined in the [pre-academy branch](https://github.com/hightechu/hightechu-spring2019/tree/pre-academy). 
 
 ## Academy Outline
 
