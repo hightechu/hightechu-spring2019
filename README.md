@@ -9,9 +9,9 @@ Before the start of the Academy please complete the list of tasks below. These t
 - [ ] Sign in to your Play Prelude Account
 - [ ] Complete the iStar quiz in Play Prelude
 - [ ] Create a Free Code Camp Account
-- [ ] Complete HTML Course
-- [ ] Complete CSS Course
-- [ ] Complete JS Course (Optional)
+- [ ] Complete [HTML Course](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
+- [ ] Complete [CSS Course] (https://learn.freecodecamp.org/responsive-web-design/basic-css)
+- [ ] Complete [JS Course] (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)(Optional - but reccomended)
 
 Once you completed all the tasks take a screenshot of each task ( [mac](https://support.apple.com/en-ca/HT201361) / [windows](https://support.microsoft.com/en-ca/help/13776/windows-use-snipping-tool-to-capture-screenshots) ) and email Andrew before class on February the 2nd of 2019.
 
