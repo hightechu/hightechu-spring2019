@@ -2,40 +2,19 @@
 
 HighTechU Spring 2018 - Course Material
 
-Welcome to the HighTechU Academy! This [github repository](https://help.github.com/articles/about-repositories/) will be your main entry point for this course. You will find everything you need here. Each week the lesson plan will be available in a [branch](https://help.github.com/articles/about-branches/). 
+Before the start of the Academy please complete the list of tasks below. These task will help you be prepared for the rest of the Academy. If you need any help please refer to the appropriate slide deck.
 
-Before the start of the Academy please complete the activities outlined in the [pre-academy branch](). 
+## Tasks
 
-## Academy Outline
+- [ ] Sign in to your Play Prelude Account
+- [ ] Complete the iStar quiz in Play Prelude
+- [ ] Create a Free Code Camp Account
+- [ ] Complete HTML Course
+- [ ] Complete CSS Course
+- [ ] Complete JS Course (Optional)
 
-* [pre-academy]()
-* [week1]()
-* [week2]()
-* [week3]()
-* [week4]()
-* [week5]()
-* [week6]()
-* [week7]()
+Once you completed all the tasks take a screenshot of each task ( [mac](https://support.apple.com/en-ca/HT201361) / [windows](https://support.microsoft.com/en-ca/help/13776/windows-use-snipping-tool-to-capture-screenshots) ) and email Andrew before class on February the 2nd of 2019.
 
-## Important Dates
+If you have any trouble do not worry, we will answer questions starting week 2 of the Academy. Try your best to complete each activity.
 
-| Week | Date               | Notes       |
-|------|--------------------|-------------|
-| 1    | February 2nd 2019  | First Class |
-| 2    | February 9th 2019  |             |
-| 3    | February 23rd 2019 |             |
-| 4    | March 2nd 2019     | Battlesnake |
-| 5    | March 9th 2019     |             |
-| 6    | March 16th 2019    |             |
-| 7    | March 23rd 2019    | Last Class  |
-
-## Resources
-
-* [Github Help](https://help.github.com/)
-* [Slack](https://slack.com/)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Github](https://github.com/)
-* [Play Prelude](http://www.playprelude.com/)
-* [Free Code Camp](https://www.freecodecamp.org/)
-
-## FAQ
+It is important that you try your best to complete each task before the start of the Academy.
