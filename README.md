@@ -38,5 +38,3 @@ Before the start of the Academy please complete the activities outlined in the [
 * [Github](https://github.com/)
 * [Play Prelude](http://www.playprelude.com/)
 * [Free Code Camp](https://www.freecodecamp.org/)
-
-## FAQ
