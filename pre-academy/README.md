@@ -15,8 +15,8 @@ Please focus on these tasks to get started, but be on the lookout for the Play P
 - [ ] Complete [Basic CSS Course](https://learn.freecodecamp.org/responsive-web-design/basic-css) (approximately 2-3 hours)
 - [ ] Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic HTML and HTML5 Course
 - [ ] Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic CSS Course
-- [ ] *Complete [Basic JavaScript Course](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) (Optional - Highly Recommended)*
-- [ ] *Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic JavaScript Course (Optional)*
+- [ ] ***Complete [Basic JavaScript Course](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) (Optional - Highly Recommended)***
+- [ ] ***Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic JavaScript Course (Optional)***
 
 <img src="https://www.playprelude.com/wp-content/uploads/2016/07/prelude-logo-header.png">
 You will receive an email containing your Play Prelude account on January 28th. Please focus on FreeCodeCamp activities until this time:
@@ -25,6 +25,6 @@ You will receive an email containing your Play Prelude account on January 28th. 
 - [ ] Complete the iStar quiz in Play Prelude (approximately 30 minutes)
 - [ ] Take a screenshot of your iStar
 
-Once you have completed all the tasks and taken a screenshot of each ( [Mac](https://support.apple.com/en-ca/HT201361) / [Windows](https://support.microsoft.com/en-ca/help/13776/windows-use-snipping-tool-to-capture-screenshots) ) email the screenshots to andrew@hightechu.ca before class on February the 2nd of 2019.
+**Once you have completed all the tasks and taken a screenshot of each ( [Mac](https://support.apple.com/en-ca/HT201361) / [Windows](https://support.microsoft.com/en-ca/help/13776/windows-use-snipping-tool-to-capture-screenshots) ) email the screenshots to andrew@hightechu.ca before class on February the 2nd of 2019.**
 
 If you have any trouble do not worry! We will answer questions starting Week 2 of the Academy. Try your best to complete each activity, as it is important for you to have reviewed some of these topics before the start of the Academy.
