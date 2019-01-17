@@ -2,7 +2,7 @@
 
 HighTechU Spring 2019 - Course Material
 
-Before the start of the Academy please complete the list of tasks below. These task will help you be prepared for the rest of the Academy. If you need any help please reach out to Andrew by email at andrew@hightechu.ca.
+Before the start of the Academy in Februayr, please complete the list of tasks below. These tasks will help you prepare for what will happen over the seven weeks, and will help us ensure that everyone is on the same page on Day 1. Having some problem? Don't worry! If you need any help please reach out to Andrew by email at andrew@hightechu.ca.
 
 ## Tasks
 
@@ -17,8 +17,8 @@ Before the start of the Academy please complete the list of tasks below. These t
 - [ ] *Complete [Basic JavaScript Course](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) (Optional - Highly Recommended)*
   - [ ] *Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic JavaScript Course (Optional)*
 
-Once you have completed all the tasks and taken a screenshot of each task ( [mac](https://support.apple.com/en-ca/HT201361) / [windows](https://support.microsoft.com/en-ca/help/13776/windows-use-snipping-tool-to-capture-screenshots) ) email Andrew the screenshots before class on February the 2nd of 2019.
+Once you have completed all the tasks and taken a screenshot of each ( [mac](https://support.apple.com/en-ca/HT201361) / [windows](https://support.microsoft.com/en-ca/help/13776/windows-use-snipping-tool-to-capture-screenshots) ) email Andrew the screenshots before class on February the 2nd of 2019.
 
-If you have any trouble do not worry, we will answer questions starting week 2 of the Academy. Try your best to complete each activity.
+If you have any trouble do not worry! We will answer questions starting week 2 of the Academy. Try your best to complete each activity.
 
 It is important that you try your best to complete each task before the start of the Academy.
