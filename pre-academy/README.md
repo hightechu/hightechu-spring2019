@@ -1,6 +1,6 @@
 # HighTechU Spring 2019
 
-### HighTechU Spring 2019 - Pre-Academy Course Material
+## Pre-Academy Course Material
 
 Before the start of the Academy in Februayr, please complete the list of tasks below. These tasks will help you prepare for what will happen over the seven weeks, and will help us ensure that everyone is on the same page on Day 1. 
 
