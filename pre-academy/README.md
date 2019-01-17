@@ -8,6 +8,7 @@ Before the start of the Academy in Februayr, please complete the list of tasks b
 
 ## Tasks
 <img src="https://a6b7b9c6.stackpathcdn.com/wp-content/uploads/2018/04/logo-freecodecamp.png?x13365">
+
 - [ ] Create a [Free Code Camp Account](https://www.freecodecamp.org/)
 - [ ] Complete [Basic HTML and HTML5 Course](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 - [ ] Complete [Basic CSS Course](https://learn.freecodecamp.org/responsive-web-design/basic-css)
@@ -17,6 +18,7 @@ Before the start of the Academy in Februayr, please complete the list of tasks b
 - [ ] *Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic JavaScript Course (Optional)*
 
 <img src="https://www.playprelude.com/wp-content/uploads/2016/07/prelude-logo-header.png">
+
 - [ ] Sign in to your [Play Prelude Account](http://www.playprelude.com/istar/)
 - [ ] Complete the iStar quiz in Play Prelude
 - [ ] Take a screenshot of your iStar
