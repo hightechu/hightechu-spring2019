@@ -2,7 +2,7 @@
 
 ## Pre-Academy Course Material
 
-Before the start of the Academy in Februayr, please complete the list of tasks below. These tasks will help you prepare for what will happen over the seven weeks, and will help us ensure that everyone is on the same page on Day 1. 
+Before the start of the Academy in February, please complete the list of tasks below. These tasks will help you prepare for what will happen over the seven weeks, and will help us ensure that everyone is on the same page on Day 1. 
 
 ##### Having some problems? Don't worry! If you need any help please reach out to Andrew by email at andrew@hightechu.ca.
 
