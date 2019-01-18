@@ -12,8 +12,8 @@ Please focus on these tasks to get started, but be on the lookout for the Play P
 
 - [ ] Create a [Free Code Camp Account](https://www.freecodecamp.org/)
 - [ ] Complete [Basic HTML and HTML5 Course](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5) (approximately 2-3 hours)
-- [ ] Complete [Basic CSS Course](https://learn.freecodecamp.org/responsive-web-design/basic-css) (approximately 2-3 hours)
 - [ ] Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic HTML and HTML5 Course
+- [ ] Complete [Basic CSS Course](https://learn.freecodecamp.org/responsive-web-design/basic-css) (approximately 2-3 hours)
 - [ ] Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic CSS Course
 - [ ] ***Complete [Basic JavaScript Course](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript) (Optional - Highly Recommended)***
 - [ ] ***Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic JavaScript Course (Optional)***
