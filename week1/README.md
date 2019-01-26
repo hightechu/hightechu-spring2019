@@ -28,7 +28,7 @@
 
 ## Homework
 
-* [Assignment 1](/assignment1.md)
+* [Assignment 1](https://github.com/hightechu/hightechu-spring2019/blob/master/week1/assignment1.md)
 
 ## Tools
 
