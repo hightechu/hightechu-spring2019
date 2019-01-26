@@ -20,10 +20,10 @@
 |10:45am - 11:50am|Faculty Tour|
 |11:50am - 12:10pm|Guest Speaker|
 |12:15pm - 12:50pm|Lunch|
-|12:55pm - 1:40pm|Wokshup Rotation 1|
-|1:40pm - 2:25pm|Wokshup Rotation 2|
-|2:25pm - 3:10pm|Wokshup Rotation 3|
-|3:10pm - 3:50pm|Wokshup Rotation 4|
+|12:55pm - 1:40pm|Workshop Rotation 1|
+|1:40pm - 2:25pm|Workshop Rotation 2|
+|2:25pm - 3:10pm|Workshop Rotation 3|
+|3:10pm - 3:50pm|Workshop Rotation 4|
 |3:50pm - 4:00pm|Wrapup|
 
 ## Homework
