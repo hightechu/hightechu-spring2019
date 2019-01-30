@@ -9,13 +9,13 @@ Before the start of the Academy please complete the activities outlined in the [
 ## Academy Outline
 
 * [pre-academy](https://github.com/hightechu/hightechu-spring2019/tree/master/pre-academy)
-* [week1]()
-* [week2]()
-* [week3]()
-* [week4]()
-* [week5]()
-* [week6]()
-* [week7]()
+* [week1](https://github.com/hightechu/hightechu-spring2019/tree/master/week1)
+* [week2](https://github.com/hightechu/hightechu-spring2019/tree/master/week2)
+* [week3](https://github.com/hightechu/hightechu-spring2019/tree/master/week3)
+* [week4](https://github.com/hightechu/hightechu-spring2019/tree/master/week4)
+* [week5](https://github.com/hightechu/hightechu-spring2019/tree/master/week5)
+* [week6](https://github.com/hightechu/hightechu-spring2019/tree/master/week6)
+* [week7](https://github.com/hightechu/hightechu-spring2019/tree/master/week7)
 
 ## Important Dates
 
