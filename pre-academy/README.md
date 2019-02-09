@@ -7,7 +7,9 @@ Before the start of the Academy in February, please complete the list of tasks b
 ##### Having some problems? Don't worry! If you need any help please reach out to Andrew by email at andrew@hightechu.ca.
 
 ## Tasks
+
 <img width="300px" height="auto" src="https://a6b7b9c6.stackpathcdn.com/wp-content/uploads/2018/04/logo-freecodecamp.png?x13365">
+
 Please focus on these tasks to get started, but be on the lookout for the Play Prelude information (see below):
 
 - [ ] Create a [Free Code Camp Account](https://www.freecodecamp.org/)
@@ -19,6 +21,7 @@ Please focus on these tasks to get started, but be on the lookout for the Play P
 - [ ] ***Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic JavaScript Course (Optional)***
 
 <img src="https://www.playprelude.com/wp-content/uploads/2016/07/prelude-logo-header.png">
+
 You will receive an email containing your Play Prelude account on January 28th. Please focus on FreeCodeCamp activities until this time:
 
 - [ ] Sign in to your [Play Prelude Account](http://www.playprelude.com/istar/)
