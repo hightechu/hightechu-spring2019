@@ -6,7 +6,7 @@
 
 * Become familiar with the cohort
 * Understand the HighTechU goals
-* Become familiar with Github / Git
+* Become familiar with GitHub / Git
 * Become familiar with Slack
 * Understand Agile / Scrum workstyles
 * Become familiar with VS Code
@@ -32,7 +32,7 @@
 
 ## Tools
 
-* [Github](https://github.com/)
+* [GitHub](https://github.com/)
 * [Slack](https://slack.com/)
 * [GIT](https://git-scm.com/)
 * [VS Code](https://code.visualstudio.com/)
@@ -41,5 +41,5 @@
 ## Resources
 
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* Github Desktop: https://desktop.github.com/ (Use Github and Git on your computer)
+* GitHub Desktop: https://desktop.github.com/ (Use GitHub and Git on your computer)
 * Git Tutorial: https://try.github.io/levels/1/challenges/1
