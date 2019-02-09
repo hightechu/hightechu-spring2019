@@ -15,14 +15,15 @@
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:15am|Introduction|
-|10:15am - 10:30am|Team Building|
-|10:30am - 11:30am|Guest Speaker|
+|10:00am - 10:15am|Introduction and Team Forming|
+|10:15am - 10:30am|Activity Check-in|
+|10:30am - 11:30am|Guest Speaker (Prof. Daniela Damian)|
 |11:30am - 12:00pm|GitHub / Git Workshop|
-|12:00pm - 12:30pm|Team Lunch|
-|12:30pm - 1:30pm|Design Thinking|
+|12:00pm - 12:15pm|Design Thinking|
+|12:15pm - 12:45pm|Lunch|
+|12:45pm - 1:30pm|Design Thinking Activity (Project Topic)|
 |1:30pm - 2:30pm|User Stories|
-|2:30pm - 3:40pm|Project Work|
+|2:30pm - 3:40pm|Wireframing|
 |3:40pm - 4:00pm|Wrapup|
 
 ## Homework
