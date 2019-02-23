@@ -4,6 +4,8 @@ This work should be done in your groups GitHub repository, in your branch. Pleas
 
 1. Update GitHub with your progress on the wireframe/html/css
 2. Work on User Stories
+3. Complete [Basic JavaScript Course](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript/)
+4. Take a screenshot of the https://learn.freecodecamp.org/ page with all the lessons completed for the Basic JavaScript Course and send to Andrew on Slack.
 
 ## Optional
 
