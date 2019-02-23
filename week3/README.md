@@ -20,8 +20,8 @@
 |10:20am - 10:30am|Daily Standup|
 |10:30am - 11:30am|Star Prelude Activity|
 |11:30am - 12:30pm|Finalizing Wireframe|
-|12:00pm - 12:30pm|Lunch and brainstorming|
-|12:30pm - 2:30pm|Implementing the Wireframe - Code HTML/CSS|
+|12:30pm - 1:00pm|Lunch|
+|1:00pm - 2:30pm|Implementing the Wireframe - Code HTML/CSS|
 |2:30pm - 3:45pm|Implementing User Stories|
 |3:45pm - 4:00pm|Daily Wrapup|
 
