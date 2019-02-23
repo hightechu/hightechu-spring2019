@@ -4,6 +4,9 @@
 
 ## Learning Outcomes
 
+* Understand different Agile/Scrum Roles
+* Understnad the importance of Communication
+* Become familiar with the Star Prelude Activities
 * Become familiar with GitHub / Git
 * Become familiar with Group Members
 * Understand GitHub Issues
@@ -13,16 +16,14 @@
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:15am|TBD|
-|10:15am - 10:30am|TBD|
-|10:30am - 11:30am|TBD|
-|11:30am - 12:00pm|TBD|
-|12:00pm - 12:15pm|TBD|
-|12:15pm - 12:45pm|Lunch|
-|12:45pm - 1:30pm|TBD|
-|1:30pm - 2:30pm|TBD|
-|2:30pm - 3:40pm|TBD|
-|3:40pm - 4:00pm|Wrapup|
+|10:00am - 10:20am|Mentors Talk|
+|10:20am - 10:30am|Daily Standup|
+|10:30am - 11:30am|Star Prelude Activity|
+|11:30am - 12:30pm|Finalizing Wireframe|
+|12:00pm - 12:30pm|Lunch and brainstorming|
+|12:30pm - 2:30pm|Implementing the Wireframe - Code HTML/CSS|
+|2:30pm - 3:45pm|Implementing User Stories|
+|3:45pm - 4:00pm|Daily Wrapup|
 
 ## Homework
 
@@ -30,6 +31,7 @@
 
 ## Tools
 
+* [Play Prelude](https://www.playprelude.com/player-login/)
 * [GitHub](https://github.com/)
 * [Slack](https://slack.com/)
 * [GIT](https://git-scm.com/)
