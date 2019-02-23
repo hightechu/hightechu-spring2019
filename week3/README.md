@@ -22,7 +22,7 @@
 |11:30am - 12:30pm|Finalizing Wireframe|
 |12:30pm - 1:00pm|Lunch|
 |1:00pm - 2:30pm|Implementing the Wireframe - Code HTML/CSS|
-|2:30pm - 3:45pm|Implementing User Stories|
+|2:30pm - 3:45pm|Uploading to GitHub and PR|
 |3:45pm - 4:00pm|Daily Wrapup|
 
 ## Homework
