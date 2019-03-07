@@ -21,10 +21,6 @@
 |2:00pm - 3:00pm|Battlesnake Coding or Mingle with Companies|
 |3:00pm - 3:45pm|Traveling by bus from Downtown to UVic|
 
-## Homework
-
-* [Assignment 4](https://github.com/hightechu/hightechu-spring2019/blob/master/week4/assignment4.md)
-
 ## Tools
 
 * [GitHub](https://github.com/)
