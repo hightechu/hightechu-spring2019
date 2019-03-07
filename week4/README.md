@@ -13,16 +13,13 @@
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:15am|TBD|
-|10:15am - 10:30am|TBD|
-|10:30am - 11:30am|TBD|
-|11:30am - 12:00pm|TBD|
-|12:00pm - 12:15pm|TBD|
-|12:15pm - 12:45pm|TBD|
-|12:45pm - 1:30pm|TBD|
-|1:30pm - 2:30pm|TBD|
-|2:30pm - 3:40pm|TBD|
-|3:40pm - 4:00pm|Wrapup|
+|9:15am - 10:00am|Traveling by bus from UVic to Downtown|
+|10:00am - 11:00am|Battlesnake Introduction|
+|11:00am - 12:00pm|GitHub Workshop or Mingle with Companies|
+|12:00pm - 1:00pm|Lunch|
+|1:00pm - 2:00pm|Tour of Tech Company Buildings or Battlesnake Coding|
+|2:00pm - 3:00pm|Battlesnake Coding or Mingle with Companies|
+|3:00pm - 3:45pm|Traveling by bus from Downtown to UVic|
 
 ## Homework
 
