@@ -19,16 +19,16 @@ Before the start of the Academy please complete the activities outlined in the [
 
 ## Important Dates
 
-| Week | Date               | Notes                                                    |
-|------|--------------------|----------------------------------------------------------|
-| 0    |                    | Fundamentals                                             |
-| 1    | February 2nd 2019  | First Class / Team Building / Introduction to Tech Tools |
-| 2    | February 9th 2019  | User Stories / Mockups                                   |
-| 3    | February 23rd 2019 | Mockups / Code                                           |
-| 4    | March 2nd 2019     | Battlesnake / Field Trip                                 |
-| 5    | March 9th 2019     | Frontend Design Finished / Project Structure and Design (User Workflow) / Javascript (Basic Overview / AJAX)|
-| 6    | March 16th 2019    | TBD                                                      |
-| 7    | March 23rd 2019    | Last Class / Deployment                                  |
+| Week | Date               | Notes                                                          |
+|------|--------------------|----------------------------------------------------------------|
+| 0    |                    | Fundamentals                                                   |
+| 1    | February 2nd 2019  | First Class / Team Building / Introduction to Tech Tools       |
+| 2    | February 9th 2019  | User Stories / Mockups                                         |
+| 3    | February 23rd 2019 | Mockups / Code                                                 |
+| 4    | March 2nd 2019     | Battlesnake / Field Trip                                       |
+| 5    | March 9th 2019     | Finish UI Design / User Workflow / Javascript (Basic Overview) |
+| 6    | March 16th 2019    | API and AJAX                                                   |
+| 7    | March 23rd 2019    | Last Class / Deployment                                        |
 
 ## Resources
 
