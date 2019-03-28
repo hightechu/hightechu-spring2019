@@ -20,11 +20,11 @@ There are two options available for acquiring a copy of your teams project repos
 2. Click the "Clone or download" button
 3. Click the "Download ZIP"
 4. Unzip the folder
-5. Follow these instructions:
+5. Follow 1 of these instructions:
   * Command line: https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
   * GitHub Desktop: https://help.github.com/en/desktop/contributing-to-projects/adding-a-repository-from-your-local-computer-to-github-desktop
 
-**NOTE**: This will only download/upload the master branch, make sure everything you need is on the master branch.
+**NOTE**: This will only download and upload the master branch, make sure everything you need is on the master branch.
 
 ### Option 2
 
