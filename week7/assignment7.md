@@ -6,7 +6,7 @@ In this assignment you will have the oppurtunity to create a GitHub Account and 
 
 If you don't have a Personal GitHub Account follow the instructions below to create an account.
 
-Head over to: https://github.com/join?source=header-home and create your personal account.
+Head over to: https://github.com/join and create your personal account.
 
 **NOTE**: Your HighTechU GitHub Account will be deleted, so please make sure to create your own account.
 
