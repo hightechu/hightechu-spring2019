@@ -2,33 +2,20 @@
 
 HighTechU Spring 2019 - Course Material
 
-Welcome to the HighTechU Academy! This [GitHub repository](https://help.github.com/articles/about-repositories/) will be your main entry point for this course. You will find everything you need here. Each week the lesson plan will be available in a folder.
+Welcome to the HighTechU Academy! This GitHub repository will be your main entry point for this course. You will find everything you need here.
 
-Before the start of the Academy please complete the activities outlined in the [pre-academy folder](https://github.com/hightechu/hightechu-spring2019/tree/master/pre-academy).
-
-## Academy Outline
-
-* [pre-academy](https://github.com/hightechu/hightechu-spring2019/tree/master/pre-academy)
-* [week1](https://github.com/hightechu/hightechu-spring2019/tree/master/week1)
-* [week2](https://github.com/hightechu/hightechu-spring2019/tree/master/week2)
-* [week3](https://github.com/hightechu/hightechu-spring2019/tree/master/week3)
-* [week4](https://github.com/hightechu/hightechu-spring2019/tree/master/week4)
-* [week5](https://github.com/hightechu/hightechu-spring2019/tree/master/week5)
-* [week6](https://github.com/hightechu/hightechu-spring2019/tree/master/week6)
-* [week7](https://github.com/hightechu/hightechu-spring2019/tree/master/week7)
-
-## Important Dates
+## Academy Outline / Important Dates
 
 | Week | Date               | Notes                                                          |
 |------|--------------------|----------------------------------------------------------------|
 | 0    |                    | Fundamentals                                                   |
-| 1    | February 2nd 2019  | First Class / Team Building / Introduction to Tech Tools       |
-| 2    | February 9th 2019  | User Stories / Mockups                                         |
-| 3    | February 23rd 2019 | Mockups / Code                                                 |
-| 4    | March 2nd 2019     | Battlesnake / Field Trip                                       |
-| 5    | March 9th 2019     | Finish UI Design / User Workflow / Javascript (Basic Overview) |
-| 6    | March 16th 2019    | API and AJAX                                                   |
-| 7    | March 23rd 2019    | Last Class / Deployment                                        |
+| 1    | April 6th 2019     | Team Building / Introduction to Tech Tools                     |
+| 2    | April 13th 2019    | User Stories / Mockups                                         |
+| 3    | April 27th 2019    | Mockups / Code                                                 |
+| 4    | May 4th 2019       | Field Trip                                                     |
+| 5    | May 11th 2019      | Javascript (Basic Overview)                                    |
+| 6    | May 25th 2019      | API and AJAX                                                   |
+| 7    | June 1st 2019      | Deployment                                                     |
 
 ## Resources
 
