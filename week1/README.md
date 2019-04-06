@@ -8,27 +8,42 @@
 * Understand the HighTechU goals
 * Become familiar with GitHub / Git
 * Become familiar with Slack
-* Understand Agile / Scrum workstyles
 * Become familiar with VS Code
+* Understand Agile / Scrum workstyles
 
 ## Class Outline
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:30am|Introduction|
-|10:30am - 10:45am|Team Building/Icebreaker|
-|10:45am - 11:50am|Faculty Tour|
-|11:50am - 12:10pm|Guest Speaker|
-|12:15pm - 12:50pm|Lunch|
-|12:55pm - 1:40pm|Workshop Rotation 1|
-|1:40pm - 2:25pm|Workshop Rotation 2|
-|2:25pm - 3:10pm|Workshop Rotation 3|
-|3:10pm - 3:50pm|Workshop Rotation 4|
+|10:00am - 10:35am|Introduction|
+|10:35am - 11:00am|Team Building/Icebreaker|
+|11:00am - 11:30am|Communication Activity & Talk|
+|11:35am - 12:15pm|Workshop Rotation 1|
+|12:15pm - 1:00pm|Lunch|
+|1:00pm - 1:40pm|Workshop Rotation 2|
+|1:50pm - 2:30pm|Workshop Rotation 3|
+|2:40pm - 3:20|Design Thinking Workshop|
+|3:25pm - 3:50|Homework/GitHub|
 |3:50pm - 4:00pm|Wrapup|
+
+### Workshop Rotation Schedule
+
+* Rotation 1
+  * Aces -> GitHub Workshop -> Room ECS
+  * Twos -> VS Code/Slack Workshop -> Room ECS
+  * Threes -> Agile Workshop -> Room ECS 660
+* Rotation 2
+  * Aces -> Agile Workshop -> Room ECS 660
+  * Twos -> GitHub Workshop -> Room ECS
+  * Threes -> VS Code/Slack Workshop -> Room ECS
+* Rotation 3
+  * Aces -> VS Code/Slack Workshop -> Room ECS
+  * Twos -> Agile Workshop -> Room ECS 660
+  * Threes -> GitHub Workshop -> Room ECS
 
 ## Homework
 
-* [Assignment 1](https://github.com/hightechu/hightechu-spring2019/blob/master/week1/assignment1.md)
+* [Assignment 1](./assignment1.md)
 
 ## Tools
 
