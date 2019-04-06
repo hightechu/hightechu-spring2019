@@ -55,5 +55,7 @@
 ## Resources
 
 * Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-* GitHub Desktop: https://desktop.github.com/ (Use GitHub and Git on your computer)
+* GitHub Desktop: https://desktop.github.com/ (Easy to use GUI)
 * Git Tutorial: https://try.github.io/levels/1/challenges/1
+* GitHub Access Token: https://help.github.com/en/articles/creating-a-personal-access-token-for-the-command-line
+* GitHub Lab: https://lab.github.com/
