@@ -2,7 +2,7 @@
 
 1. Signin to [GitHub](https://github.com/login)
 
-2. Head over to []() and accept the GitHub Classroom Assignment.
+2. Head over to [https://classroom.github.com/a/lPvabS_t](https://classroom.github.com/a/lPvabS_t) and accept the GitHub Classroom Assignment.
 
 ![Assignment 1 - Demo 1](./images/assignment1-demo1.png)
 
