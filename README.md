@@ -17,6 +17,10 @@ Welcome to the HighTechU Academy! This GitHub repository will be your main entry
 | 6    | May 25th 2019      | API and AJAX                                                   |
 | 7    | June 1st 2019      | Deployment                                                     |
 
+## Feedback Form
+
+* [Form](https://forms.gle/NcvNbaeYGfxXUJUc6)
+
 ## Resources
 
 * [GitHub Help](https://help.github.com/)
