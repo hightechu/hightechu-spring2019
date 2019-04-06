@@ -29,17 +29,17 @@
 ### Workshop Rotation Schedule
 
 * Rotation 1
-  * Aces -> GitHub Workshop -> Room ECS
-  * Twos -> VS Code/Slack Workshop -> Room ECS
+  * Aces -> GitHub Workshop -> Room ECS 342
+  * Twos -> VS Code/Slack Workshop -> Room ECS 342
   * Threes -> Agile Workshop -> Room ECS 660
 * Rotation 2
   * Aces -> Agile Workshop -> Room ECS 660
-  * Twos -> GitHub Workshop -> Room ECS
-  * Threes -> VS Code/Slack Workshop -> Room ECS
+  * Twos -> GitHub Workshop -> Room ECS 342
+  * Threes -> VS Code/Slack Workshop -> Room ECS 342
 * Rotation 3
-  * Aces -> VS Code/Slack Workshop -> Room ECS
+  * Aces -> VS Code/Slack Workshop -> Room ECS 342
   * Twos -> Agile Workshop -> Room ECS 660
-  * Threes -> GitHub Workshop -> Room ECS
+  * Threes -> GitHub Workshop -> Room ECS 342
 
 ## Homework
 
