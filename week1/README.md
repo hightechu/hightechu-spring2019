@@ -2,6 +2,10 @@
 
 **HighTechU Spring 2019 - Course Material - Week 1 - HighTechU Fundamentals**
 
+## Slides
+
+* [Introduction Slides](https://docs.google.com/presentation/d/1wsq7c2ni09IJ6ZXGaSk6p9Sd-zjnRqvhbw7gGaPq00I/edit?usp=sharing)
+
 ## Learning Outcomes
 
 * Become familiar with the cohort
