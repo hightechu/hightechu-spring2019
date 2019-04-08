@@ -2,7 +2,7 @@
 
 1. Signin to [GitHub](https://github.com/login)
 
-2. Head over to [https://classroom.github.com/a/Z9hCGeQK](https://classroom.github.com/a/Z9hCGeQK) and accept the GitHub Classroom Assignment.
+2. Head over to [https://classroom.github.com/a/lPvabS_t](https://classroom.github.com/a/lPvabS_t) and accept the GitHub Classroom Assignment.
 
 ![Assignment 1 - Demo 1](./images/assignment1-demo1.png)
 
@@ -10,4 +10,4 @@
 
 ![Assignment 1 - Demo 2](./images/assignment1-demo2.png)
 
-**The assignment is due February 8th at 11pm PT, but you can submit until start of class on February 9th at 10am PT.**
+**This assignment is due before class next week.**
