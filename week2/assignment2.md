@@ -1,9 +1,36 @@
 # Assignment 2
 
+**Please do not jump ahead and listen to the instructions, it is very important that you do not skip ahead.**
+
 1. Signin to [GitHub](https://github.com/login)
 
-2. Head over to [https://classroom.github.com/g/TR-ollzt](https://classroom.github.com/g/TR-ollzt) and wait.
+2. Head over to [https://classroom.github.com/g/-1hs45UL](https://classroom.github.com/g/-1hs45UL) and **WAIT**.
 
-3. We will go over this process as a group.
+3. **WAIT** and **LISTEN** 
 
-**The assignment is due February 23rd at 11pm PT, but you can submit until start of class on February 24th at 10am PT.**
+4. We will go over this process as a group.
+
+---
+
+In your groups: 
+
+1. Have 1 person create a team. (Aces Cohort 2, Twos Cohort 2, Threes Cohort 2, Fours Cohort 2) Once you have named the team correctly, hit the create team button. 
+
+![Create Group Example](https://github.com/hightechu/hightechu-spring2019/blob/master/week2/images/group-example-1.png)
+
+![Naming Convention](https://github.com/hightechu/hightechu-spring2019/blob/master/week2/images/group-example-2.png)
+
+2. Have the other 3 members refresh their page. They should see something similar. Have the other 3 members join the correct team. Please pick the correct team, this cannot be undone. If you are uncertain, please ask for assistance.
+
+![Group Formation](https://github.com/hightechu/hightechu-spring2019/blob/master/week2/images/group-example-3.png)
+
+3. After joining the group you should see something similar, if you don't no worries.
+
+![Group Assignment Acceptance](https://github.com/hightechu/hightechu-spring2019/blob/master/week2/images/group-example-4.png)
+
+4. If you didn't see that screen, or the creation takes too long, go to github.com/hightechu and you should be able to see your group project repository. 
+
+* https://github.com/hightechu/hightechu-academy-project-aces-cohort-2
+* https://github.com/hightechu/hightechu-academy-project-twos-cohort-2
+* https://github.com/hightechu/hightechu-academy-project-threes-cohort-2
+* https://github.com/hightechu/hightechu-academy-project-fours-cohort-2
