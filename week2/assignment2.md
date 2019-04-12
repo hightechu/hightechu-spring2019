@@ -1,6 +1,6 @@
 # Assignment 2
 
-**Please do not jump ahead and listen to the instructions, it is very important that you do not skip ahead.**
+**Please listen to the instructions and do not skip ahead, it is very important that you do not skip ahead.**
 
 1. Signin to [GitHub](https://github.com/login)
 
@@ -20,7 +20,7 @@ In your groups:
 
 ![Naming Convention](https://github.com/hightechu/hightechu-spring2019/blob/master/week2/images/group-example-2.png)
 
-2. Have the other 3 members refresh their page. They should see something similar. Have the other 3 members join the correct team. Please pick the correct team, this cannot be undone. If you are uncertain, please ask for assistance.
+2. Have the other 3 members refresh their page. They should see something similar to the below image. Have the other 3 members join the correct team. Please pick the correct team, this cannot be undone. If you are uncertain, please ask for assistance.
 
 ![Group Formation](https://github.com/hightechu/hightechu-spring2019/blob/master/week2/images/group-example-3.png)
 
@@ -28,7 +28,9 @@ In your groups:
 
 ![Group Assignment Acceptance](https://github.com/hightechu/hightechu-spring2019/blob/master/week2/images/group-example-4.png)
 
-4. If you didn't see that screen, or the creation takes too long, go to github.com/hightechu and you should be able to see your group project repository. 
+4. If you didn't see that screen, or the assignment creation takes too long, go to github.com/hightechu and you should be able to see your group project repository. 
+
+If not, these should be the correct links:
 
 * https://github.com/hightechu/hightechu-academy-project-aces-cohort-2
 * https://github.com/hightechu/hightechu-academy-project-twos-cohort-2
