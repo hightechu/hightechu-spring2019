@@ -4,9 +4,9 @@
 
 ## Learning Outcomes
 
-* Become familiar with Group Members
+* Become familiar with group members
 * Become familiar with GitHub project/issues
-* Learn about Wireraming
+* Learn about Wireframing
 * Learn about User Stories
 * Learn about Balsamiq
 
@@ -14,16 +14,14 @@
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:20am|Daliy Introduction and Team Forming|
-|10:25am - 10:30am|Homework Check-in|
-|10:30am - 11:00am|Prelude activity|
-|11:00am - 11:45pm|Finalizing project idea|
+|10:00am - 10:30am|Daliy Introduction and Team Forming|
+|10:30am - 11:00am|weStar Collaboration|
+|11:00am - 11:45pm|Project Selection Discussion|
 |11:45pm - 12:30pm|Lunch|
-|12:30pm - 1:15pm|Github project and issues|
-|1:15pm - 2:05pm|Wireframing|
-|2:05pm - 3:20pm|User Stories|
-|3:20pm - 3:35pm|Introducing Balsamiq|
-|3:35pm - 4:00pm|Homework and Wrapup|
+|12:30pm - 1:15pm|Github Classroom and Project|
+|1:15pm - 3:20pm|Wireframing and User Stories|
+|3:20pm - 3:35pm|Frist Sprint Issue Assignment|
+|3:35pm - 4:00pm|Homework - Wireframing with Balsamiq|
 
 ## Homework
 
