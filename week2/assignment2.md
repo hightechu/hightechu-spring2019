@@ -30,9 +30,3 @@ In your groups:
 
 4. If you didn't see that screen, or the assignment creation takes too long, go to github.com/hightechu and you should be able to see your group project repository. 
 
-If not, these should be the correct links:
-
-* https://github.com/hightechu/hightechu-academy-project-aces-cohort-2
-* https://github.com/hightechu/hightechu-academy-project-twos-cohort-2
-* https://github.com/hightechu/hightechu-academy-project-threes-cohort-2
-* https://github.com/hightechu/hightechu-academy-project-fours-cohort-2
