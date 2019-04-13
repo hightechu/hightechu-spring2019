@@ -4,27 +4,26 @@
 
 ## Learning Outcomes
 
-* Become familiar with GitHub / Git
-* Learn about GitHub Classroom
 * Become familiar with Group Members
-* Learn about User Stories
-* Learn about GitHub Issues
+* Become familiar with GitHub project/issues
 * Learn about Wireraming
+* Learn about User Stories
+* Learn about Balsamiq
 
 ## Class Outline
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:15am|Introduction and Team Forming|
-|10:15am - 10:30am|Activity Check-in|
-|10:30am - 11:30am|Guest Speaker (Prof. Daniela Damian)|
-|11:30am - 12:00pm|GitHub / Git Workshop|
-|12:00pm - 12:15pm|Design Thinking|
-|12:15pm - 12:45pm|Lunch|
-|12:45pm - 1:30pm|Design Thinking Activity (Project Topic)|
-|1:30pm - 2:30pm|User Stories|
-|2:30pm - 3:40pm|Wireframing|
-|3:40pm - 4:00pm|Wrapup|
+|10:00am - 10:20am|Daliy Introduction and Team Forming|
+|10:25am - 10:30am|Homework Check-in|
+|10:30am - 11:00am|Prelude activity|
+|11:00am - 11:45pm|Finalizing project idea|
+|11:45pm - 12:30pm|Lunch|
+|12:30pm - 1:15pm|Github project and issues|
+|1:15pm - 2:05pm|Wireframing|
+|2:05pm - 3:20pm|User Stories|
+|3:20pm - 3:35pm|Introducing Balsamiq|
+|3:35pm - 4:00pm|Homework and Wrapup|
 
 ## Homework
 
