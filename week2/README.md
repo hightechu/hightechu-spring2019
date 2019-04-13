@@ -25,7 +25,7 @@
 
 ## Homework
 
-* [Assignment 2](https://github.com/hightechu/hightechu-spring2019/blob/master/week2/assignment3.md)
+* [Assignment 3](https://github.com/hightechu/hightechu-spring2019/blob/master/week2/assignment3.md)
 
 ## Tools
 
