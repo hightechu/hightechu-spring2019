@@ -4,36 +4,39 @@
 
 ## Learning Outcomes
 
-* Understand different Agile/Scrum Roles
+* Name Your Team Members, Product Owner and Mentors
 * Understnad the importance of Communication
-* Become familiar with the Star Prelude Activities
-* Become familiar with GitHub / Git
-* Become familiar with Group Members
-* Understand GitHub Issues
-* Understand Wireraming
+* Understand the Importance of Teamwork and Collaboration
+* Become familiar with VS Live Share
+* Understand Folder and File Structure
+* Coding in HTML & CSS
+
+
 
 ## Class Outline
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:20am|Mentors Talk|
-|10:20am - 10:30am|Daily Standup|
-|10:30am - 11:30am|Star Prelude Activity|
-|11:30am - 12:30pm|Finalizing Wireframe|
-|12:30pm - 1:00pm|Lunch|
-|1:00pm - 2:30pm|Implementing the Wireframe - Code HTML/CSS|
-|2:30pm - 3:45pm|Uploading to GitHub and PR|
-|3:45pm - 4:00pm|Daily Wrapup|
+|10:00am - 10:15am|Daily Introduction|
+|10:15am - 10:45am|Importance of Soft Skills session|
+|10:45am - 10:55am|Homework Check/Review|
+|10:55am - 11:20am|Introduction to VS Code Live Share|
+|11:20am - 12:10pm|Review File/Folder Structzure, Terminal & Git Branching|
+|12:10pm - 1:00pm|Lunch|
+|1:00pm - 1:40pm|Finalising Wireframe|
+|1:40pm - 3:30pm|Work on Project|
+|3:30pm - 4:00pm|Homework & Daily Wrapup|
 
 ## Homework
+ 
+* Finish HTML/CSS
+* Work on assigned issues on Github
 
-* [Assignment 3](https://github.com/hightechu/hightechu-spring2019/blob/master/week3/assignment3.md)
 
 ## Tools
 
-* [Play Prelude](https://www.playprelude.com/player-login/)
-* [GitHub](https://github.com/)
-* [Slack](https://slack.com/)
+* [GitHub](https://github.com/hightechu)
+* [Slack](https://hightechuacademy.slack.com/)
 * [GIT](https://git-scm.com/)
 * [VS Code](https://code.visualstudio.com/)
 
