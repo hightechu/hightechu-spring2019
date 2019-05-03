@@ -12,7 +12,7 @@ Welcome to the HighTechU Academy! This GitHub repository will be your main entry
 | 1    | April 6th 2019     | Team Building / Introduction to Tech Tools                     |
 | 2    | April 13th 2019    | User Stories / Mockups                                         |
 | 3    | April 27th 2019    | Mockups / Code                                                 |
-| 4    | May 4th 2019       | Javascript (Basic Overview)                                    |
+| 4    | May 4th 2019       | HTML/CSS Development & JavaScript (Backend)                    |
 | 5    | May 11th 2019      | Field Trip                                                     |
 | 6    | May 25th 2019      | API and AJAX                                                   |
 | 7    | June 1st 2019      | Deployment                                                     |
