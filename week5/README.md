@@ -1,28 +1,27 @@
 # HighTechU Spring 2019
 
-**HighTechU Spring 2019 - Course Material - Week 5 - Javascript**
+**HighTechU Spring 2019 - Course Material - Week 5 - Tech Crawl**
 
 ## Learning Outcomes
 
-* Finish HTML/CSS
-* Finish Project Structure and Design (User Workflow)
-* Become familiar with Javascript (Basic Overview / AJAX)
+* Become familiar with the local tech companies
+* Become familiar with the different jobs in tech
+* Become familiar with Victoria
 
 ## Class Outline
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:20am|Introduction|
-|10:20am - 10:35am|Revisit Prelude|
-|10:35am - 10:50am|GitHub Projects|
-|11:00am - 12:00pm|Javascript Workshop|
-|12:00pm - 1:00pm|Lunch|
-|1:00pm - 3:45pm|Work Period|
-|3:45pm - 4:00pm|Wrapup|
-
-## Homework
-
-* [Assignment 5](https://github.com/hightechu/hightechu-spring2019/blob/master/week5/assignment5.md)
+|10:00am - 10:10am|Introduction|
+|10:10am - 10:30am|Bus Downtown|
+|10:40am - 11:10am|Semaphore|
+|11:20am - 11:50am|Viatec|
+|11:50pm - 12:20pm|Lunch|
+|12:30pm - 1:00pm|xMatters|
+|1:15pm - 1:45pm|Stocksy|
+|1:45pm - 2:00pm|Wrapup|
+|2:00pm - 2:30pm|Bus UVic|
+|2:30pm - 4:00pm|Work Period|
 
 ## Tools
 
