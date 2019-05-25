@@ -1,22 +1,25 @@
 # HighTechU Spring 2019
 
-**HighTechU Spring 2019 - Course Material - Week 6 - AJAX, APIs, and backend**
+**HighTechU Spring 2019 - Course Material - Week 6 - Working on project and backend**
 
 ## Learning Outcomes
 
-* Continue working on JavaScript
+* Finalize the HTML/CSS
 * Finish basic website functionality
+* Continue working on project
+
 
 ## Class Outline
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:20am|Introduction|
-|10:20am - 10:30am|Daily Standup|
-|10:30am - 11:00am|API Workshop|
-|11:00am - 12:00pm|AJAX Workshop|
-|12:00pm - 1:00pm|Lunch|
-|1:00pm - 3:45pm|Work Period|
+|10:00am - 10:10am|Introduction|
+|10:10am - 10:30am|Daily Standup|
+|10:30am - 10:45am|Review on github issues|
+|10:45am - 11:00am|Planning|
+|11:00am - 12:00pm|Working on implementation|
+|12:00pm - 12:35pm|Lunch|
+|12:40pm - 3:45pm|Working on implementation (contd.)|
 |3:45pm - 4:00pm|Wrapup|
 
 ## Homework
