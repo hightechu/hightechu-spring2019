@@ -11,8 +11,6 @@
 * Understand Folder and File Structure
 * Coding in HTML & CSS
 
-
-
 ## Class Outline
 
 |Time|Activity|
@@ -31,7 +29,6 @@
  
 * Finish HTML/CSS
 * Work on assigned issues on Github
-
 
 ## Tools
 
