@@ -8,7 +8,6 @@
 * Finish basic website functionality
 * Continue working on project
 
-
 ## Class Outline
 
 |Time|Activity|
