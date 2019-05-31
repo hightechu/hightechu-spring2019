@@ -4,25 +4,22 @@
 
 ## Learning Outcomes
 
-* Deploying pages on github pages
-* Final instructions for getting access to the code
+* Complete Backend
+* Learn Deployment Steps
+* Deploy Application
 
 ## Class Outline
 
 |Time|Activity|
 |:---|:---|
-|10:00am - 10:15am|Introduction|
-|10:15am - 12:00pm|Finishing off final work|
-|12:00pm - 1:00pm|Lunch & Photoshoot|
-|1:00pm - 2:00pm|Folder structuring|
-|2:00pm - 2:30pm|Deployment|
-|2:30pm - 3:00pm|Showcase|
-|3:00pm - 3:30pm|Survey|
-|3:30pm - 4:00pm|Wrapup|
-
-## Homework
-
-Keep Learning :)
+|10:00am - 10:40am|Introduction|
+|10:40am - 12:00pm|Working on Project|
+|12:00pm - 12:30pm|Lunch / Photoshoot|
+|12:30pm - 1:30pm|Working on Project|
+|1:35pm - 2:35pm|Working on Backend|
+|2:40pm - 3:10pm|Working on Deployment|
+|3:10pm - 3:40pm|Showcase|
+|3:40pm - 4:00pm|Survey / Wrapup|
 
 ## Tools
 
